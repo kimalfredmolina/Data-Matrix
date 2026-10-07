@@ -1,0 +1,51 @@
+{
+  "id": "matrix-1791358591050",
+  "title": "Revenue Reports",
+  "description": "Regional quarterly revenue and performance metrics",
+  "headers": [
+    "Region",
+    "Q1 Revenue ($)",
+    "Q2 Revenue ($)",
+    "Q3 Revenue ($)",
+    "Q4 Revenue ($)"
+  ],
+  "rows": [
+    [
+      "North America",
+      "145000",
+      "168000",
+      "192000",
+      "210000"
+    ],
+    [
+      "Europe",
+      "98000",
+      "112000",
+      "125000",
+      "140000"
+    ],
+    [
+      "Asia Pacific",
+      "185000",
+      "210000",
+      "245000",
+      "290000"
+    ],
+    [
+      "Latin America",
+      "42000",
+      "49000",
+      "58000",
+      "65000"
+    ],
+    [
+      "Middle East",
+      "63000",
+      "71000",
+      "82000",
+      "94000"
+    ]
+  ],
+  "createdAt": "2026-10-07T07:36:31.050Z",
+  "updatedAt": "2026-10-07T07:36:31.050Z"
+}
